@@ -1,0 +1,18 @@
+
+
+Testing with cache size: 10
+Cache size 10 took 1.1629669s
+
+Testing with cache size: 50
+Cache size 50 took 1.0827498s
+
+Testing with cache size: 100
+Cache size 100 took 1.069046s
+
+Testing with cache size: 500
+Cache size 500 took 1.1880781s
+
+Testing with cache size: 1000
+Cache size 1000 took 1.055563s
+
+Non-cached version took 1.1265933s
